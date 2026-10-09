@@ -1,0 +1,11 @@
+# Python cached files
+__pycache__/
+*.pyc
+
+# Docker volumes storage (дані бази залишаються у вас на ПК)
+.database/
+mongo-data/
+
+# IDE settings
+.vscode/
+.idea/
